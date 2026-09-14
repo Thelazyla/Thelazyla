@@ -1,6 +1,6 @@
-## Hi there 👋
+<!--# Hi, I'm Anh 👋
 
-<!--
+Senior TPM | Agentic AI | Robotics Validation
 **Thelazyla/Thelazyla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
