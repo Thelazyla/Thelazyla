@@ -2,7 +2,7 @@
 
 Senior TPM | Agentic AI | Robotics Validation
 **Thelazyla/Thelazyla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+Complex AI and robotics programs
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
